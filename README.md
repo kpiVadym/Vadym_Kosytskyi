@@ -5,9 +5,9 @@ Selenium_kosytskyi.py - головний файл, де записано pipelin
 1) Завантажте браузер Chrome 
 2) Завантажте selenium та webdriver_manager. 
 Якщо у вас не втсановлено, то це можна зробити за допомгою команди pip у терміналі:
-``` pip install selenium
-    pip install webdriver_manager
-```
+``` pip install selenium ```
+``` pip install webdriver_manager ```
+
 3) Запустіть Selenium_kosytskyi.py
 
 **Можливі результати**: 
